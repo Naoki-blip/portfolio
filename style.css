@@ -1,32 +1,14 @@
 
 .body {
-    background-color: #122347;
+    background-color: #2f3b55;
     font-family: Arial, sans-serif;
     margin: 0px;
     padding: 0px;
 }
-.Header {
-    width: 700px;
-    text-align: center;
-    height: 100px;
-    background-color: #588dff;
-    font-family: Arial, sans-serif;
-    padding: 50px;
-    margin: 0 auto;
-}
+
 .content {
     width: 700px;
-    text-align: center;
-    height: 600px;
-    background-color:#588dff;
-    font-family: Arial, sans-serif;
-    padding: 50px;
-    margin: 0 auto;
-    border-radius: 0px 0px 10px 10px;
-    border: 1px solid #588dff;
-}
-.content1 {
-    width: 600px;
+    height: 700px;
     text-align: center;
     background-color:#588dff;
     font-family: Arial, sans-serif;
@@ -34,16 +16,8 @@
     margin: 0 auto;
     border-radius: 0px 0px 10px 10px;
     border: 1px solid #588dff;
-}
-.content2 {
-    width: 550px;
-    text-align: center;
-    background-color:#588dff;
-    font-family: Arial, sans-serif;
-    padding: 50px;
-    margin: 0 auto;
-    border-radius: 0px 0px 10px 10px;
-    border: 1px solid #588dff;
+    align-items: center;
+    align-content: auto;
 }
     #peso{
         width: 200px;
